@@ -1,0 +1,52 @@
+{
+  "name": "Haris Khurshid Abbasi",
+  "subheading": "App Developer",
+  "avatar": "https://pbs.twimg.com/profile_images/1455456158349733888/iLkXhRdj.jpg",
+  "links": [
+    {
+      "title": "Code Genie",
+      "href": "https://codegenie.adilsher.pro",
+      "image": "https://icon-library.com/images/chat-flat-icon/chat-flat-icon-8.jpg"
+    },
+    {
+      "title": "React - Single Page App",
+      "href": "https://animations4b-adilsher.surge.sh/",
+      "image": "https://icon-library.com/images/react_1353128.png"
+    },
+    {
+      "title": "React - Share to Wear",
+      "href": "https://share-to-wear.netlify.app",
+      "image": "https://icon-library.com/images/react_1353128.png"
+    },
+    {
+      "title": "React-Native/IOS - Zong Live TV",
+      "href": "https://apps.apple.com/pk/app/zong-live-tv/id6476647040",
+      "image": "https://icon-library.com/images/react_1353128.png"
+    },
+    {
+      "title": "React-Native/IOS - App360",
+      "href": "https://troon.adilsher.pro/",
+      "image": "https://icon-library.com/images/mongodb_80756.png"
+    }
+  ],
+  "socials": [
+    {
+      "title": "GitHub",
+      "href": "https://github.com/adisher"
+    },
+    {
+      "title": "Twitter",
+      "href": "https://twitter.com/adilsherdotpro"
+    },
+    {
+      "title": "Linkedin",
+      "href": "https://www.linkedin.com/in/harisabbasi4579?"
+    }
+  ],
+  "coffee": [
+    {
+      "title": "Buy Me A Coffee",
+      "href": "https://www.buymeacoffee.com/adilsherdotpro"
+    }
+  ]
+}
