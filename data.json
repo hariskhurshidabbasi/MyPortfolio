@@ -4,11 +4,6 @@
   "avatar": "https://pbs.twimg.com/profile_images/1455456158349733888/iLkXhRdj.jpg",
   "links": [
     {
-      "title": "Code Genie",
-      "href": "https://codegenie.adilsher.pro",
-      "image": "https://icon-library.com/images/chat-flat-icon/chat-flat-icon-8.jpg"
-    },
-    {
       "title": "React - Single Page App",
       "href": "https://animations4b-adilsher.surge.sh/",
       "image": "https://icon-library.com/images/react_1353128.png"
@@ -32,21 +27,12 @@
   "socials": [
     {
       "title": "GitHub",
-      "href": "https://github.com/adisher"
+      "href": "https://github.com/hariskhurshidabbasi"
     },
-    {
-      "title": "Twitter",
-      "href": "https://twitter.com/adilsherdotpro"
-    },
+
     {
       "title": "Linkedin",
       "href": "https://www.linkedin.com/in/harisabbasi4579?"
-    }
-  ],
-  "coffee": [
-    {
-      "title": "Buy Me A Coffee",
-      "href": "https://www.buymeacoffee.com/adilsherdotpro"
     }
   ]
 }
